@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    background-color: grey;
+}
+.container{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.button{
+    padding: 20px 23px;
+    margin: 0 2px;
+    cursor:pointer;
+    border: 2px solid black;
+    font-size: medium;
+  
+}
+.row{
+    margin: 8px 0px;
+}
+.input{
+padding: 8px 59px;
+font-size: medium;
+border: 2px solid black;
+margin: 10px 0;
+}
+
